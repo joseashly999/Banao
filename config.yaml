@@ -1,0 +1,16 @@
+path: C:\Users\ASUS\Desktop\Banao
+train: images\train 
+val: images\train
+
+#Classes
+
+names:
+ 0: Buttons
+ 1: Inputfields
+ 2: Modal
+ 3: Images
+ 4: Logo
+ 5: Text
+ 6: Navigation_dots
+ 7: Dropdown Forms
+ 
